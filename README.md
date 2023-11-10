@@ -23,5 +23,4 @@ Sou determinado na elaboração de projetos,  atingir expectativas de acordo com
   - [LinkedIn](https://www.linkedin.com/in/bryan-b-dorneles/)
   - [E-mail](mailto:bryan_dorneles@hotmail.com)
   - [Whatsapp](https://api.whatsapp.com/send?phone=61466567271&text=E%20aí,%20Bryan.%20Tudo%20certo?)
-  
-- 👯 No momento estou comprometido com a startup TiqueTaque. Então não estou disponível para algum tipo de vínculo de trabalho.
+
