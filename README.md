@@ -1,4 +1,4 @@
-# Hey, I'm Bryan 👋
+# Hey there, I'm Bryan 👋
 ### Flutter & ReactJS Developer
 
 I am deeply dedicated to advancing project development, always ensuring my work resonates with the core values and culture of the company. My adaptability allows me to excel both in solo and collaborative team environments. I possess a strong passion for continuous learning and take great pleasure in sharing knowledge and expertise with others.
