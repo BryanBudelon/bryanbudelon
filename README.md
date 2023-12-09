@@ -1,26 +1,26 @@
-# Olá, sou o Bryan 👋
-### React JS & Flutter Developer
+# Hey, I'm Bryan 👋
+### Flutter & ReactJS Developer
 
-Sou determinado na elaboração de projetos,  atingir expectativas de acordo com a cultura da empresa. Trabalho bem sozinho, ou em equipe e gosto tanto de aprender quanto ensinar.
+I am deeply dedicated to advancing project development, always ensuring my work resonates with the core values and culture of the company. My adaptability allows me to excel both in solo and collaborative team environments. I possess a strong passion for continuous learning and take great pleasure in sharing knowledge and expertise with others.
 
-- 🔥 Atuo com estas tecnologias:
+- 🔥 Technologies I work with:
   * ReactJS
   * Flutter
   * NodeJS
   
-- 😄 Competências:
-  - Desenvolvimento Web, Android, iOS e PWA com tecnologias ReactJS, NodeJS, e Github. Com experiência em metodologia ágil SCRUM. Com background de 10 anos em programação. Outras stacks: HTML, CSS, JS(jQuery), C#, PHP e MySQL.
+- 😄 Skills:
+  - Web, Android, iOS, and PWA development using Flutter, ReactJS, NodeJS, and Github. Experienced in agile SCRUM methodology. Background of 10 years in programming. Other stacks: HTML, CSS, JS (jQuery), C#, PHP, and MySQL.
     
-- 📚 Estudos:
+- 📚 Studies:
   - Flutter & Dart - The Complete Guide [2023 Edition]
-    - NOVEMBRO DE 2020.
+    - NOVEMBER DE 2020.
       
-- 👄 Idiomas:
-  - Português — Nativo.
-  - Inglês — Avançado.
+- 👄 Languages:
+  - Portuguese — Native.
+  - English — Advanced.
  
-- :speech_balloon:  Fale comigo:
+- :speech_balloon:  Contact me:
   - [LinkedIn](https://www.linkedin.com/in/bryan-b-dorneles/)
   - [E-mail](mailto:bryan_dorneles@hotmail.com)
-  - [Whatsapp](https://api.whatsapp.com/send?phone=61466567271&text=E%20aí,%20Bryan.%20Tudo%20certo?)
+  - [Whatsapp](https://api.whatsapp.com/send?phone=61466567271&text=E%20aí,%20Bryan.%20How%20are%20you?)
 
